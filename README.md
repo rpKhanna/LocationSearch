@@ -21,7 +21,7 @@
     - Dependency Injection
     - Delegate
     - Automapper
-    - SeriLog logger
+    - SeriLog logger that logs in the text file inside Logs folder
     - Global exception handling using Middleware
     - Caching 
     - Ajax call to populate data in grid
