@@ -28,6 +28,7 @@
     - Jquery Datatable for grid
     - Client side validation
     - Pagination on grid with lazy loading i.e. one page at a time.
+    - Partial View for Grid to popuplate locations list
     - Bootstrap
     - Last but not the least, a cute earth spinner to relate the search of locations.
 
