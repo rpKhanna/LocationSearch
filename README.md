@@ -21,13 +21,14 @@
     - Dependency Injection
     - Delegate
     - Automapper
-    - SeriLog logger
+    - SeriLog logger that logs in the text file inside Logs folder
     - Global exception handling using Middleware
     - Caching 
     - Ajax call to populate data in grid
     - Jquery Datatable for grid
     - Client side validation
     - Pagination on grid with lazy loading i.e. one page at a time.
+    - Partial View for Grid to popuplate locations list
     - Bootstrap
     - Last but not the least, a cute earth spinner to relate the search of locations.
 
